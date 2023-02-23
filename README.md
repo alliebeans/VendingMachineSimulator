@@ -1,4 +1,4 @@
-* VendingMachineSimulator
+# VendingMachineSimulator
 
 > This was a school assignment made in december 2022
 > 
