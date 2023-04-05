@@ -7,6 +7,9 @@
 > with different menu types with keyboard navigation
 
 
+[VendingMachineSimulator-2023-04-05_12.31.37.webm](https://user-images.githubusercontent.com/47175901/230056677-3232ac3d-619f-444a-930e-3f7ba0152e97.webm)
+
+
 
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
